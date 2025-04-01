@@ -19,6 +19,9 @@ This application allows users to input laptop specifications such as:
 
 The model then predicts the price based on these specifications.
 
+## Live Demo
+Try the application here: [Laptop Price Predictor](https://machine-learning-laptop-predictor-mbaclyrhs5jjxzla58dmkc.streamlit.app/)
+
 ## Data Source
 
 The dataset used for this project is sourced from Kaggle's "Laptop Price Dataset" which contains information about various laptops and their prices. The dataset includes features like brand, processor details, RAM, storage, display specifications, and more.
